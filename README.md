@@ -1,4 +1,5 @@
 # Olá 👋, meu nome é Vanderson Walace
+- **Estudante de Análise e Desenvolvimento de Sistemas**,
 - **Desenvolvedor** de software backend na [Cubos Academy](https://cubos.academy/)
 - 🖥Atualmente mais focado em:
 <div style = "display: inline">
